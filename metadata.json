@@ -1,0 +1,6 @@
+{
+  "name": "Student Welfare Office - Christ University",
+  "description": "Official Student Welfare Office (SWO) portal for Christ University, Yeshwanthpur Campus, featuring Student Portal and SWO Admin Dashboard with events, registrations, announcements, and certificates.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
